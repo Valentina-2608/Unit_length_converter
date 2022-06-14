@@ -1,1 +1,12 @@
 /* Styles */
+
+.main{width:800px;
+height:1000px;
+background-color:#CBCBCB;
+margin: 0 auto;
+position:relative;}
+
+
+h1{color:darkred;
+text-align:center;
+padding-top:20px;}
