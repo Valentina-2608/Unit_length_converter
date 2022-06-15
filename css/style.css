@@ -45,6 +45,12 @@ float:left;
 background-color:red;
 }
 
+#number{width:120px;
+height:27px;
+border-radius:5px;
+margin-left:70px;
+border:none;}
+
 
 
 #unit_from{width:120px;
