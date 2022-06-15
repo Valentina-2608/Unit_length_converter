@@ -23,7 +23,6 @@ top:100px;
 .element1{width:250px;
 height:200px;
 float:left;
-background-color:red;
 margin-left:25px;}
 
 
@@ -31,7 +30,6 @@ margin-left:25px;}
 width:250px;
 height:200px;
 float:left;
-background-color:green;
 }
 
 h3{color:black;
@@ -42,7 +40,6 @@ text-align:center;}
 width:250px;
 height:200px;
 float:left;
-background-color:red;
 }
 
 #number{width:120px;
