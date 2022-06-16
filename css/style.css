@@ -99,5 +99,9 @@ font-size:30px;}
 
 
 
-#unit_length{font-size:20px;
+#unit_length{
+width:400px;
+height:30px;
+margin-left:200px;
+font-size:20px;
 text-align:center;}
